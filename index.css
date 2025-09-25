@@ -1,0 +1,152 @@
+.wintb{
+    background-color:rgb(255, 255, 255);
+    color:rgb(0, 0, 0);
+    padding:1%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+img.warn{
+    margin:0;
+    vertical-align: bottom;
+}
+body{
+    overflow: hidden;
+}
+div.warn{
+    background-color: yellow;
+    color:rgb(0, 0, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;    
+    border-radius: 5px;
+    padding: 0.5%;
+    align-items: center;
+    text-align: center;
+    vertical-align: middle;
+    transition-duration: 300ms;
+    size: 2px;
+}
+body.tb{
+    background: rgb(84, 84, 84);
+}
+h1{
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    vertical-align: bottom;
+    text-align: center;
+}
+body.home {
+    background-color: rgb(84,84,84);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    padding-left: 1.55%;
+    padding-right: 1.55%;
+    scroll-margin-right: 1%;
+}
+.pfp{
+    border-radius: 100px;
+}
+.TB1{
+    border-radius: 5px;
+    background-color: rgba(123, 123, 123, 0.421);
+    padding: 0.5%;
+    border-style: none;
+    margin: 0.1%;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+    outline-style: none;
+
+}
+.TB1.S{
+    margin-left: 1%;
+    padding-top: 5px
+}
+.TB1.S::placeholder{
+    color:rgba(255, 255, 255, 0.599);
+}
+.TB1.S::placeholder:hover{
+    color:rgb(255, 255, 255);
+}
+button.TB1{
+    border-radius: 40px;
+    background-color: rgb(141, 141, 141);
+    padding: 1.25%;
+    padding-top: 0.29%;
+    padding-bottom: 0.29%;
+    border-style: none;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    transition-duration: 0.5s;
+    align-self:center;
+    box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.103);
+}
+button.TB1:hover{
+    background-color: rgb(96, 96, 96);
+    padding: 1.50%;
+    padding-top: 0.29%;
+    padding-bottom: 0.29%;
+}
+button.TB1.d{
+    border-radius: 40px;
+    background-color: rgb(255, 85, 85);
+    padding: 1.25%;
+    padding-top: 0.29%;
+    padding-bottom: 0.29%;
+    border-style: none;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    transition-duration: 0.5s;
+    align-self: center;
+    box-shadow: 0px 0px 10px 0px rgba(247, 0, 0, 0.30);
+}
+button.TB1.d:hover{
+    background-color: rgb(255, 255, 255);
+    color: red;
+    padding: 1.75%;
+    padding-top: 0.29%;
+    padding-bottom: 0.29%;
+    box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.30);
+}
+button.TB1.dh{
+    border-radius: 40px;
+    background-color: rgba(255, 255, 255, 0.241);
+    padding: 1.25%;
+    padding-top: 0.29%;
+    padding-bottom: 0.29%;
+    border-style: none;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    transition-duration: 0.5s;
+    align-self: center;
+    box-shadow: 0px 0px 10px 0px rgba(123, 123, 123, 0.3);
+}
+button.TB1.dh:hover{
+    background-color: rgb(255, 255, 255);
+    color: red;
+    padding: 1.75%;
+    padding-top: 0.29%;
+    padding-bottom: 0.29%;
+    box-shadow: 0px 0px 10px 0px rgba(255, 0, 0, 0.3);
+}
+iframe{
+    border-style: none;
+    border-radius: 5px;
+    transition-duration: 100ms;
+}
+hr{
+    border: 2px solid rgba(255, 255, 255, 0.500);
+    border-radius: 10px;
+}
+button.TB1.W{
+    background-color: rgb(255, 255, 166);
+    color:black;
+    margin-left: 1%;
+}
+.destructive{
+    color:rgb(255, 120, 120);   
+}
+.destructive.h{
+    color:white;
+    transition-duration: 1s;
+}
+.destructive.h:hover{
+    color: rgb(255,120,120)
+}
