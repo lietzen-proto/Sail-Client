@@ -1,0 +1,9 @@
+{
+    "network":{
+        "port": 7593
+    },
+    "node":{
+        "menubarenabled?": false
+
+    }
+}

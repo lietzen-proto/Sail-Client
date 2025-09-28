@@ -1,3 +1,3 @@
 document.addEventListener("DOMContentLoaded", function(){
-    console.log("Loading settings...")
+    // Will add json parser once i learn how 2 #doesnt know javascript.
 })

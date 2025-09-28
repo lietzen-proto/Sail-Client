@@ -39,6 +39,7 @@ body.home {
     padding-left: 1.55%;
     padding-right: 1.55%;
     scroll-margin-right: 1%;
+    overflow:visible;
 }
 .pfp{
     border-radius: 100px;
